@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <div align="left">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emonroy19&theme=dracula)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=emonroy19&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=emonroy7&theme=tokyonight&hide_border=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emonroy19&theme=radical)
 
 
